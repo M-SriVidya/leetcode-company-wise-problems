@@ -93,7 +93,7 @@ MEDIUM,Unique Paths,21.9,0.6577285437608488,https://leetcode.com/problems/unique
 HARD,Valid Number,21.9,0.21563512503115395,https://leetcode.com/problems/valid-number,String,not done
 HARD,Substring with Concatenation of All Words,21.9,0.32997499702748073,https://leetcode.com/problems/substring-with-concatenation-of-all-words,"Hash Table, String, Sliding Window",not done
 MEDIUM,Remove Duplicates from Sorted Array II,15.2,0.6290185479131098,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,"Array, Two Pointers",not done
-MEDIUM,Search in Rotated Sorted Array II,15.2,0.3887965146188378,https://leetcode.com/problems/search,not done
+MEDIUM,Search in Rotated Sorted Array II,15.2,0.3887965146188378,https://leetcode.com/problems/search-in-rotated-sorted-array-ii,"Array, Binary Search",not done
 MEDIUM,Unique Paths II,15.2,0.43154364997722033,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix",not one
 MEDIUM,Recover Binary Search Tree,15.2,0.5632431226781013,https://leetcode.com/problems/recover-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree",not done
 MEDIUM,Unique Binary Search Trees,15.2,0.6244520536210353,https://leetcode.com/problems/unique-binary-search-trees,"Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree",not done
