@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(15)
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(16)
 EASY,Two Sum,100.0,0.5577699312007911,https://leetcode.com/problems/two-sum,"Array, Hash Table",not done
 MEDIUM,Longest Substring Without Repeating Characters,78.3,0.36936173184826904,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window",done
 EASY,Longest Common Prefix,77.6,0.4548305143026601,https://leetcode.com/problems/longest-common-prefix,"String, Trie",not done
@@ -8,7 +8,7 @@ MEDIUM,Merge Intervals,74.2,0.4939527547797844,https://leetcode.com/problems/mer
 MEDIUM,Group Anagrams,74.2,0.7092882244410338,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting",not done
 EASY,Merge Sorted Array,73.8,0.5291951450619177,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting",not done
 HARD,Trapping Rain Water,73.0,0.6510193782985645,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",not done
-MEDIUM,Reverse Integer,71.6,0.30308917553888653,https://leetcode.com/problems/reverse-integer,Math,not done
+MEDIUM,Reverse Integer,71.6,0.30308917553888653,https://leetcode.com/problems/reverse-integer,Math,done
 MEDIUM,Valid Sudoku,71.6,0.6227675793740958,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix",done
 EASY,Climbing Stairs,70.1,0.5354071840932856,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization",not done
 MEDIUM,Longest Palindromic Substring,68.5,0.35846108158592566,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming",not done
@@ -99,4 +99,3 @@ MEDIUM,Recover Binary Search Tree,15.2,0.5632431226781013,https://leetcode.com/p
 MEDIUM,Unique Binary Search Trees,15.2,0.6244520536210353,https://leetcode.com/problems/unique-binary-search-trees,"Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree",not done
 MEDIUM,Subsets II,15.2,0.595072748658621,https://leetcode.com/problems/subsets-ii,"Array, Backtracking, Bit Manipulation",done
 MEDIUM,Flatten Binary Tree to Linked List,15.2,0.6851010744073592,https://leetcode.com/problems/flatten-binary-tree-to-linked-list,"Linked List, Stack, Tree, Depth-First Search, Binary Tree",not done
-total done so far =15
