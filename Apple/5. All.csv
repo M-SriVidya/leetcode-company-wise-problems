@@ -1,3 +1,4 @@
+#total done so far =15
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not
 EASY,Two Sum,100.0,0.5577699312007911,https://leetcode.com/problems/two-sum,"Array, Hash Table",not done
 MEDIUM,Longest Substring Without Repeating Characters,78.3,0.36936173184826904,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window",done
@@ -97,5 +98,6 @@ MEDIUM,Search in Rotated Sorted Array II,15.2,0.3887965146188378,https://leetcod
 MEDIUM,Unique Paths II,15.2,0.43154364997722033,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix",not one
 MEDIUM,Recover Binary Search Tree,15.2,0.5632431226781013,https://leetcode.com/problems/recover-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree",not done
 MEDIUM,Unique Binary Search Trees,15.2,0.6244520536210353,https://leetcode.com/problems/unique-binary-search-trees,"Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree",not done
-MEDIUM,Subsets II,15.2,0.595072748658621,https://leetcode.com/problems/subsets-ii,"Array, Backtracking, Bit Manipulation",not done
+MEDIUM,Subsets II,15.2,0.595072748658621,https://leetcode.com/problems/subsets-ii,"Array, Backtracking, Bit Manipulation",done
 MEDIUM,Flatten Binary Tree to Linked List,15.2,0.6851010744073592,https://leetcode.com/problems/flatten-binary-tree-to-linked-list,"Linked List, Stack, Tree, Depth-First Search, Binary Tree",not done
+total done so far =15
