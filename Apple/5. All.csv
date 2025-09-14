@@ -1,5 +1,4 @@
-#total done so far =15
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(15)
 EASY,Two Sum,100.0,0.5577699312007911,https://leetcode.com/problems/two-sum,"Array, Hash Table",not done
 MEDIUM,Longest Substring Without Repeating Characters,78.3,0.36936173184826904,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window",done
 EASY,Longest Common Prefix,77.6,0.4548305143026601,https://leetcode.com/problems/longest-common-prefix,"String, Trie",not done
