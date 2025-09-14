@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(16)
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(17)
 EASY,Two Sum,100.0,0.5577699312007911,https://leetcode.com/problems/two-sum,"Array, Hash Table",not done
 MEDIUM,Longest Substring Without Repeating Characters,78.3,0.36936173184826904,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window",done
 EASY,Longest Common Prefix,77.6,0.4548305143026601,https://leetcode.com/problems/longest-common-prefix,"String, Trie",not done
@@ -47,7 +47,7 @@ MEDIUM,4Sum,46.1,0.38219020113793045,https://leetcode.com/problems/4sum,"Array, 
 EASY,Symmetric Tree,46.1,0.5927867908424697,https://leetcode.com/problems/symmetric-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",not done
 MEDIUM,String to Integer (atoi),46.1,0.1922942164534482,https://leetcode.com/problems/string-to-integer-atoi,String,not done
 MEDIUM,Validate Binary Search Tree,46.1,0.34380387886661157,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree",not done
-HARD,First Missing Positive,46.1,0.4108465766394882,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table",not done
+HARD,First Missing Positive,46.1,0.4108465766394882,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table",done
 MEDIUM,"Pow(x, n)",44.3,0.3702318641045828,https://leetcode.com/problems/powx-n,"Math, Recursion",done
 EASY,Plus One,44.3,0.47547621095134496,https://leetcode.com/problems/plus-one,"Array, Math",not done
 MEDIUM,Interleaving String,44.3,0.4217918033968859,https://leetcode.com/problems/interleaving-string,"String, Dynamic Programming",not done
