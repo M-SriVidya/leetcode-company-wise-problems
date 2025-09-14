@@ -66,7 +66,7 @@ HARD,N-Queens,37.4,0.7281704967757537,https://leetcode.com/problems/n-queens,"Ar
 MEDIUM,Swap Nodes in Pairs,37.4,0.6720136828647639,https://leetcode.com/problems/swap-nodes-in-pairs,"Linked List, Recursion",not done
 HARD,Text Justification,37.4,0.48149935664104093,https://leetcode.com/problems/text-justification,"Array, String, Simulation",not done
 MEDIUM,Simplify Path,37.4,0.4785432317744196,https://leetcode.com/problems/simplify-path,"String, Stack",not done
-MEDIUM,Subsets,37.4,0.808795565390318,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation",not done
+MEDIUM,Subsets,37.4,0.808795565390318,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation",done
 HARD,Minimum Window Substring,37.4,0.45350747638232236,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window",not done
 MEDIUM,Zigzag Conversion,34.5,0.5160676713980508,https://leetcode.com/problems/zigzag-conversion,String,not done
 MEDIUM,Decode Ways,34.5,0.36530991972040927,https://leetcode.com/problems/decode-ways,"String, Dynamic Programming",not done
@@ -81,7 +81,7 @@ MEDIUM,Edit Distance,27.0,0.5878976197609908,https://leetcode.com/problems/edit-
 HARD,Sudoku Solver,27.0,0.6390866531877745,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix",not done
 EASY,Same Tree,27.0,0.6512686619125213,https://leetcode.com/problems/same-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",not done
 MEDIUM,Remove Duplicates from Sorted List II,27.0,0.4989080936318432,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii,"Linked List, Two Pointers",not done
-EASY,Length of Last Word,27.0,0.5631926999044908,https://leetcode.com/problems/length-of-last-word,String,not done
+EASY,Length of Last Word,27.0,0.5631926999044908,https://leetcode.com/problems/length-of-last-word,String,done
 MEDIUM,Restore IP Addresses,27.0,0.531583393083398,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking",not done
 MEDIUM,Unique Binary Search Trees II,27.0,0.6039807221122715,https://leetcode.com/problems/unique-binary-search-trees-ii,"Dynamic Programming, Backtracking, Tree, Binary Search Tree, Binary Tree",not done
 HARD,Maximal Rectangle,21.9,0.5370845822665518,https://leetcode.com/problems/maximal-rectangle,"Array, Dynamic Programming, Stack, Matrix, Monotonic Stack",not done
