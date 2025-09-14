@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(17)
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(18)
 EASY,Two Sum,100.0,0.5577699312007911,https://leetcode.com/problems/two-sum,"Array, Hash Table",not done
 MEDIUM,Longest Substring Without Repeating Characters,78.3,0.36936173184826904,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window",done
 EASY,Longest Common Prefix,77.6,0.4548305143026601,https://leetcode.com/problems/longest-common-prefix,"String, Trie",not done
@@ -27,7 +27,7 @@ MEDIUM,Generate Parentheses,61.2,0.7713286717803378,https://leetcode.com/problem
 HARD,Merge k Sorted Lists,61.2,0.567741907864408,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort",not done
 MEDIUM,Container With Most Water,60.4,0.5778282574410597,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy",not done
 EASY,Find the Index of the First Occurrence in a String,58.6,0.449716000865219,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching",not done
-EASY,Remove Element,56.7,0.600316358048653,https://leetcode.com/problems/remove-element,"Array, Two Pointers",not done
+EASY,Remove Element,56.7,0.600316358048653,https://leetcode.com/problems/remove-element,"Array, Two Pointers",done
 EASY,Search Insert Position,55.6,0.4901242285525163,https://leetcode.com/problems/search-insert-position,"Array, Binary Search",done
 MEDIUM,Letter Combinations of a Phone Number,55.6,0.6385756647080152,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking",not done
 HARD,Regular Expression Matching,53.3,0.2928012366939696,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion",not done
