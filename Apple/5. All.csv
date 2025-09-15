@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(19)
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(21)
 EASY,Two Sum,100.0,0.5577699312007911,https://leetcode.com/problems/two-sum,"Array, Hash Table",not done
 MEDIUM,Longest Substring Without Repeating Characters,78.3,0.36936173184826904,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window",done
 EASY,Longest Common Prefix,77.6,0.4548305143026601,https://leetcode.com/problems/longest-common-prefix,"String, Trie",not done
@@ -41,7 +41,7 @@ MEDIUM,Binary Tree Level Order Traversal,52.1,0.7059658947038693,https://leetcod
 MEDIUM,Find First and Last Position of Element in Sorted Array,52.1,0.4682874104872264,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search",not done
 MEDIUM,Next Permutation,50.8,0.4305772664998175,https://leetcode.com/problems/next-permutation,"Array, Two Pointers",not done
 MEDIUM,Combination Sum,47.8,0.7467468656021409,https://leetcode.com/problems/combination-sum,"Array, Backtracking",not done
-MEDIUM,Sort Colors,47.8,0.6758312948649591,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting",not done
+MEDIUM,Sort Colors,47.8,0.6758312948649591,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting",done
 MEDIUM,Jump Game,47.8,0.39479197867291327,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy",not done
 MEDIUM,4Sum,46.1,0.38219020113793045,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting",not done
 EASY,Symmetric Tree,46.1,0.5927867908424697,https://leetcode.com/problems/symmetric-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",not done
@@ -49,7 +49,7 @@ MEDIUM,String to Integer (atoi),46.1,0.1922942164534482,https://leetcode.com/pro
 MEDIUM,Validate Binary Search Tree,46.1,0.34380387886661157,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree",not done
 HARD,First Missing Positive,46.1,0.4108465766394882,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table",done
 MEDIUM,"Pow(x, n)",44.3,0.3702318641045828,https://leetcode.com/problems/powx-n,"Math, Recursion",done
-EASY,Plus One,44.3,0.47547621095134496,https://leetcode.com/problems/plus-one,"Array, Math",not done
+EASY,Plus One,44.3,0.47547621095134496,https://leetcode.com/problems/plus-one,"Array, Math",done
 MEDIUM,Interleaving String,44.3,0.4217918033968859,https://leetcode.com/problems/interleaving-string,"String, Dynamic Programming",not done
 MEDIUM,Jump Game II,44.3,0.4150331235291809,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy",not done
 MEDIUM,Word Search,42.2,0.45266926269047814,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix",not done
