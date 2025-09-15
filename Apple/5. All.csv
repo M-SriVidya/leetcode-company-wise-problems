@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(22)
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(23)
 EASY,Two Sum,100.0,0.5577699312007911,https://leetcode.com/problems/two-sum,"Array, Hash Table",not done
 MEDIUM,Longest Substring Without Repeating Characters,78.3,0.36936173184826904,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window",done
 EASY,Longest Common Prefix,77.6,0.4548305143026601,https://leetcode.com/problems/longest-common-prefix,"String, Trie",not done
@@ -6,7 +6,7 @@ EASY,Valid Parentheses,76.9,0.4232282567926559,https://leetcode.com/problems/val
 HARD,Median of Two Sorted Arrays,75.8,0.43814591586025275,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer",not done
 MEDIUM,Merge Intervals,74.2,0.4939527547797844,https://leetcode.com/problems/merge-intervals,"Array, Sorting",not done
 MEDIUM,Group Anagrams,74.2,0.7092882244410338,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting",not done
-EASY,Merge Sorted Array,73.8,0.5291951450619177,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting",not done
+EASY,Merge Sorted Array,73.8,0.5291951450619177,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting",done
 HARD,Trapping Rain Water,73.0,0.6510193782985645,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",not done
 MEDIUM,Reverse Integer,71.6,0.30308917553888653,https://leetcode.com/problems/reverse-integer,Math,done
 MEDIUM,Valid Sudoku,71.6,0.6227675793740958,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix",done
