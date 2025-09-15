@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(26)
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(27)
 EASY,Two Sum,100.0,0.5577699312007911,https://leetcode.com/problems/two-sum,"Array, Hash Table",not done
 MEDIUM,Longest Substring Without Repeating Characters,78.3,0.36936173184826904,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window",done
 EASY,Longest Common Prefix,77.6,0.4548305143026601,https://leetcode.com/problems/longest-common-prefix,"String, Trie",not done
@@ -61,7 +61,7 @@ HARD,Wildcard Matching,42.2,0.2989833857244126,https://leetcode.com/problems/wil
 EASY,Balanced Binary Tree,40.0,0.5534204897752865,https://leetcode.com/problems/balanced-binary-tree,"Tree, Depth-First Search, Binary Tree",not done
 MEDIUM,Set Matrix Zeroes,40.0,0.6070884347201074,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix",not done
 MEDIUM,Count and Say,40.0,0.6050656775612677,https://leetcode.com/problems/count-and-say,String,not done
-EASY,Remove Duplicates from Sorted List,37.4,0.5487080353115535,https://leetcode.com/problems/remove-duplicates-from-sorted-list,Linked List,not done
+EASY,Remove Duplicates from Sorted List,37.4,0.5487080353115535,https://leetcode.com/problems/remove-duplicates-from-sorted-list,Linked List,done
 HARD,N-Queens,37.4,0.7281704967757537,https://leetcode.com/problems/n-queens,"Array, Backtracking",not done
 MEDIUM,Swap Nodes in Pairs,37.4,0.6720136828647639,https://leetcode.com/problems/swap-nodes-in-pairs,"Linked List, Recursion",not done
 HARD,Text Justification,37.4,0.48149935664104093,https://leetcode.com/problems/text-justification,"Array, String, Simulation",not done
