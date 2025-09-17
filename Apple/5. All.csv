@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(27)
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Done or not(28)
 EASY,Two Sum,100.0,0.5577699312007911,https://leetcode.com/problems/two-sum,"Array, Hash Table",not done
 MEDIUM,Longest Substring Without Repeating Characters,78.3,0.36936173184826904,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window",done
 EASY,Longest Common Prefix,77.6,0.4548305143026601,https://leetcode.com/problems/longest-common-prefix,"String, Trie",not done
@@ -12,7 +12,7 @@ MEDIUM,Reverse Integer,71.6,0.30308917553888653,https://leetcode.com/problems/re
 MEDIUM,Valid Sudoku,71.6,0.6227675793740958,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix",done
 EASY,Climbing Stairs,70.1,0.5354071840932856,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization",not done
 MEDIUM,Longest Palindromic Substring,68.5,0.35846108158592566,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming",not done
-EASY,Palindrome Number,68.0,0.5922454522673172,https://leetcode.com/problems/palindrome-number,Math,not done
+EASY,Palindrome Number,68.0,0.5922454522673172,https://leetcode.com/problems/palindrome-number,Math,done
 MEDIUM,Rotate Image,67.4,0.7790164518819447,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix",not done
 MEDIUM,Spiral Matrix,67.4,0.5393973501075863,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation",not done
 MEDIUM,Add Two Numbers,66.8,0.4622507658063209,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion",done
